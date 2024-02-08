@@ -6,7 +6,7 @@ body {
 }
 
 body {
-    background-color: white;
+    background-color: #F49F1C;
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
 nav a {
     text-decoration: none;
     font-weight: bolder;
-    color: white;
+    color: #F49F1C;
     padding: 15px;
     margin-top: 20px;
 }
@@ -27,7 +27,7 @@ nav h1 {
     position: absolute;
     margin-top: 40px;
     margin-left: 40px;
-    color: rgb(255, 255, 255);
+    color: #F49F1C;
     font-size: 35px;
 }
 
@@ -63,7 +63,7 @@ article h1 {
 }
 
 #um {
-    margin-left: 450px;
+    margin-left: 640px;
     margin-top: 15px;
     justify-content: center;
     display: inline-flex;
@@ -82,5 +82,5 @@ footer {
     left: 0;
     width: 100%;
     text-align: center;
-    color: #ffffff;
+    color: #F49F1C;
 }
